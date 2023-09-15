@@ -1,0 +1,7 @@
+*.pyc
+*.xml
+*.png
+*.log
+*.tif
+**/.idea
+**/result
